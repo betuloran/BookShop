@@ -1,5 +1,5 @@
 
-**Bu repo, kodluyoruz front-end patikasındaki ödevi içermektedir. HTML ve CSS kullanarak bir kitap satış sayfası yaptım.**
+**Bu repo, kodluyoruz front-end patikasındaki ödevi içermektedir. HTML ve CSS kullanarak oluşturulan bir kitap satış sayfası projesidir.**
 
 ![Ekran görüntüsü 2023-04-30 115708](https://user-images.githubusercontent.com/116026974/235344791-9f1d68e1-2ec1-4583-a1ce-5415cbc09119.png)
 
